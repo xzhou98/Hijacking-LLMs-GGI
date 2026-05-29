@@ -1,5 +1,16 @@
-# GGI-attack
-This is the official repository for "[Hijacking Large Language Models via Adversarial In-Context Learning](https://arxiv.org/abs/2311.09948)" by [Xiangyu Zhou](https://www.linkedin.com/in/xiangyu-zhou-71086321a/), [Yao Qiang](https://qiangyao1988.github.io/), [Saleh Zare Zade](https://scholar.google.com/citations?user=O3X_iagAAAAJ&hl=en&oi=ao), [Prashant Khanduri](https://sites.google.com/view/khanduri-prashant/), [Dongxiao Zhu](https://dongxiaozhu.github.io/)
+<div align='center'>
+  
+# Hijacking Large Language Models via Adversarial In-Context Learning (ECML-PKDD-2026)
+
+[![Venue: ECML-PKDD 2026](https://img.shields.io/badge/Venue-ECML%202026-green)](https://ecmlpkdd.org/2026/)
+[![preprint](https://img.shields.io/badge/arXiv-2410.07163-B31B1B)](https://arxiv.org/abs/2311.09948)
+[![issues](https://img.shields.io/badge/Issues-Welcome!-yellow)](https://github.com/xzhou98/Hijacking-LLMs-GGI/issues)
+[![GitHub repo size](https://img.shields.io/github/repo-size/xzhou98/Hijacking-LLMs-GGI)](https://github.com/xzhou98/Hijacking-LLMs-GGI)
+[![GitHub top language](https://img.shields.io/github/languages/top/xzhou98/Hijacking-LLMs-GGI)](https://github.com/xzhou98/Hijacking-LLMs-GGI)
+[![GitHub stars](https://img.shields.io/github/stars/xzhou98/Hijacking-LLMs-GGI)](https://github.com/xzhou98/Hijacking-LLMs-GGI)
+</div>
+
+This is the official repository for "[Hijacking Large Language Models via Adversarial In-Context Learning](https://arxiv.org/abs/2311.09948)" by [Xiangyu Zhou](https://xzhou98.github.io/), [Yao Qiang](https://qiangyao1988.github.io/), [Saleh Zare Zade](https://scholar.google.com/citations?user=O3X_iagAAAAJ&hl=en&oi=ao), [Prashant Khanduri](https://sites.google.com/view/khanduri-prashant/), [Dongxiao Zhu](https://dongxiaozhu.github.io/)
 
 ![Illustration of our attack](Illustration.png)
 
